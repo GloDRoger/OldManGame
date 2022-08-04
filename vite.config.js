@@ -18,3 +18,5 @@ export default defineConfig({
     }),
   ],
 });
+
+// git push -f git@github.com:GloDRoger/OldManGame.git main:gh-pages
